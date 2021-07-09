@@ -32,7 +32,7 @@
 				<li><a href="course.php">Kurzy</a></li>
 				<li><a href="membership_comp.php">Členstvo &amp; Firmy</a></li>
 				
-				<li><a href="clenovia.php">Členovia</a></li>
+				<li><a href="members.php">Členovia</a></li>
 				<li><a href="contact.php">Kontakt</a></li>
 			</ul>
 			
