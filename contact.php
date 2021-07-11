@@ -13,7 +13,7 @@
                 <a href="tel:+421910333145""><i class="flaticon-smartphone"></i></a>
                 <h3>Mobil</h3>
                 <a href="tel:+421910333145""><span>+421 910 333 145</span></a>
-                <br><small>(preferujeme mail)</small>
+                <br><small>(preferujeme email)</small>
             </div> 
           
             <div class="c-icons">
