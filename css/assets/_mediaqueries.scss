@@ -243,21 +243,13 @@
 @media( max-width: 57.75em ){                   //924px   
     .c-links{
         justify-content: space-around;
+        margin: 0 auto;
+        width: 80%;
     }
     
     .c-icons{
-        &:nth-child(1),
-        &:nth-child(2),
-        &:nth-child(3){
-            flex-basis: 33.3%;
-        }
-    
-        &:nth-child(4),
-        &:nth-child(5){
-            align-self: center;
-            margin-top: 4em;
-            flex-basis: 50%;
-        }
+        flex-basis: 50%;
+        margin-bottom: 7em;
     }
 
     .c-address{
@@ -716,6 +708,12 @@
     .overlay:nth-child(3){
         background-position-x: 20%;
     }
+
+    .c-links{
+        justify-content: space-around;
+        margin: 0 auto;
+        width: 100%;
+    }
 }
 
 @media ( max-width: 33.875em ){             //542px
@@ -724,14 +722,6 @@
 
 @media ( max-width: 32.5em ){               //520px
     .questions{ width: 100%; }
-
-    .c-icons{
-       flex-basis: 50%;
-       &:nth-child(3){
-           order: 5;
-           margin-top: 4em;
-       }
-    }
 
     .c-contact{
         h1{ 
@@ -976,4 +966,12 @@
 
 @media( max-width: 20.75em ){               //332px
     .c-contact h1{ font-size: 2em; }
+}
+
+@media( max-width: 19.0625em ){             //305px
+    
+    .c-icons{
+       flex-basis: 100%;
+        
+    }
 }

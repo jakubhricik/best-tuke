@@ -99,18 +99,22 @@
 		
 
 		<div class="logo-slider">
+			<div class="item" ><img src="img/partneri/tatrav.png" alt=""></div>
+			<div class="item" ><img src="img/partneri/trvl.png" alt=""></div>
+			<div class="item" ><img src="img/partneri/inl.png" alt=""></div>
+			<div class="item" ><img src="img/partneri/ibm.jpg" alt=""></div>
+			<div class="item" ><img src="img/partneri/cike.png" alt=""></div>
 			<div class="item" ><img src="img/partneri/tuke.png" alt=""></div>
 			<div class="item" ><img src="img/partneri/ait.png" alt=""></div>
-			<div class="item" ><img src="img/partneri/cike.png" alt=""></div>
+			
 			<div class="item" ><img src="img/partneri/drc.png" alt=""></div>
 			<div class="item" ><img src="img/partneri/fei.png" alt=""></div>
-			<div class="item" ><img src="img/partneri/ibm.jpg" alt=""></div>
-			<div class="item" ><img src="img/partneri/inl.png" alt=""></div>
+			
+			
 			<div class="item" ><img src="img/partneri/itv.png" alt=""></div>
 			<div class="item" ><img src="img/partneri/ness.png" alt=""></div>
 			<div class="item" ><img src="img/partneri/sjf.png" alt=""></div>
-			<div class="item" ><img src="img/partneri/tatrav.png" alt=""></div>
-			<div class="item" ><img src="img/partneri/trvl.png" alt=""></div>
+			
 		</div>
 		
 	</section>

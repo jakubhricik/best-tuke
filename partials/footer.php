@@ -27,13 +27,12 @@
 					<a href="tel:+421910333145" target="_blank"><i class="fas fa-phone-alt"></i><code>+421 910 333 145</code></a>
 					<small>(preferujeme email)</small>
 				</section>
-
 			</div>
 		</div>
 
 		<div class="postfooter-bg">
 			<section class="postfooter">
-				<code>created by <a href=""> Ondrej Ladomirják </a></code>
+				<code><a href="https://www.facebook.com/ondrej.ladomirjak" target="_blank"> Ondrej Ladomirják </a></code>
 			</section>
 		</div>
 

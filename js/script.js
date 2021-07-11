@@ -67,7 +67,7 @@ backToTop.appendTo('body')
 $('.logo-slider').slick({
 	slidesToShow: 5,
 	slidesToScroll: 5,
-	arrows: true,
+	arrows: false,
 	autoplay: true,
 	autoplaySpeed: 5000,
 	infinite: true,
